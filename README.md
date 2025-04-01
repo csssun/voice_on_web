@@ -10,7 +10,10 @@
 ![image](https://github.com/user-attachments/assets/4266f942-070d-4ed8-84b3-d3fdcd1c3d6c)
 
 注意事项：
+
 1.本项目通过newapi调用ai模型，使用浏览器自带的tts（语音转文本），手机端暂时无法使用tts，只能手动输入文字
+
 2.由于接口以近乎明文展示，请合理设置调用速率
+
 3.技术栈为html
 
